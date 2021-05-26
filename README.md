@@ -9,3 +9,6 @@ UFO_Ensemble_Waveforms.m: takes the files generated from UFO_Participant_Wavefor
 UFO_Waveform_Plotting.m: Plots the sagittal plane waveforms of the participant means. For example, one plot is knee flexion angle with x participant curves on it. Will plot all variables on one figure
 
 UFO_Waveform_Plotting.R: R script that imports the data from UFO_Ensemble_Waveforms and plots the ensemble averages +/- standard deviation
+
+PCT_processing_batch_subject_ross_edits: pulls discrete data from trial data and averages together. Appends an excel document with 8 sheets. First 4 sheets are individual trials and second 4 sheets are the averages of the per-subject discrete variables. 4 sheets for 4 separate conditions
+
