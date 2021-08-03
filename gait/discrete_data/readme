@@ -1,1 +1,3 @@
-This script will export the discrete metrics from the Visual 3D files
+PCT_processing_batch_subject)edited_final will export the discrete metrics from the Visual 3D files.
+
+Also contains a script (Discrete_grant_metric_plots.R) that will create grouped dot plots with mean and standard deviation for the four metrics written into the grant.
